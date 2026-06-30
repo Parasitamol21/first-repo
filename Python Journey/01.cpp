@@ -13,9 +13,4 @@ int main(){
       ll x,y;
         cin>>x>>y;
         if(x%y==0){
-            cout<<"Yes"<<endl;
-        }else{
-            cout<<"No"<<endl;
-        }
-            
-    }
+            cout<<"Yes"<<endl;}
